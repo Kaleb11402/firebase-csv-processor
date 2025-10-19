@@ -41,7 +41,7 @@ firebase-csv-processor/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KalebTilahun/firebase-csv-processor.git
+git clone https://github.com/Kaleb11402/firebase-csv-processor.git
 cd firebase-csv-processor
 ```
 
